@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: e:\study\supermemo\sm18¿¡»À∞¸\sm18-lazy-package-1.3.1\sm18\systems\all in one
+   Date: Sunday, September 25, 2022, 11:34:36 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 11:34:36 AM in 00:00:00 sec (Sunday, September 25, 2022)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
